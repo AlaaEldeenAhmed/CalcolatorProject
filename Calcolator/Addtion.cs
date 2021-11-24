@@ -8,5 +8,9 @@ namespace Calcolator
 {
     public class Addtion
     {
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
