@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git Branching\\Company Repository\\Calcolator\\Calcolator\\Calcolator.csproj": {}
+    "E:\\Git Branching\\Developer1\\CalcolatorProject\\Calcolator\\Calcolator.csproj": {}
   },
   "projects": {
-    "E:\\Git Branching\\Company Repository\\Calcolator\\Calcolator\\Calcolator.csproj": {
+    "E:\\Git Branching\\Developer1\\CalcolatorProject\\Calcolator\\Calcolator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git Branching\\Company Repository\\Calcolator\\Calcolator\\Calcolator.csproj",
+        "projectUniqueName": "E:\\Git Branching\\Developer1\\CalcolatorProject\\Calcolator\\Calcolator.csproj",
         "projectName": "Calcolator",
-        "projectPath": "E:\\Git Branching\\Company Repository\\Calcolator\\Calcolator\\Calcolator.csproj",
+        "projectPath": "E:\\Git Branching\\Developer1\\CalcolatorProject\\Calcolator\\Calcolator.csproj",
         "packagesPath": "C:\\Users\\alaaa\\.nuget\\packages\\",
-        "outputPath": "E:\\Git Branching\\Company Repository\\Calcolator\\Calcolator\\obj\\",
+        "outputPath": "E:\\Git Branching\\Developer1\\CalcolatorProject\\Calcolator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
