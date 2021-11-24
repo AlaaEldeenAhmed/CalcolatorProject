@@ -8,9 +8,11 @@ namespace Calcolator
 {
     public class Subtion
     {
-        public int Sub(int a,int b)
+        public int Sub(int a, int b)
         {
-            return a - b;
+            int sub;
+            sub = a - b;
+            return sub;
         }
     }
 }
