@@ -10,6 +10,7 @@ namespace Calcolator
     {
         public int Add(int a, int b)
         {
+            int sum1 = 1;
             int sum = 0;
             sum = a + b;
             return sum;
